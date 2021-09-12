@@ -1,5 +1,11 @@
-### Hi there 👋
+![Imagen inicial](https://media.tenor.com/images/56c271c62439a1234798ccafc576f5b2/tenor.png)
 
+### Hello world! 👋
+## About me:
+
+- :pouting_man:	I´m Sanders. I’m from Lima, Peru  :red_square::white_large_square::red_square: :peru:
+- :desktop_computer:	 I'm currently studying Computer Science at [Universidad de Ingeniería y Tecnología](https://www.utec.edu.pe/)
+- 
 <!--
 **Zanderz17/Zanderz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
