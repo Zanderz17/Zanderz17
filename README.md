@@ -3,9 +3,15 @@
 
 ## About me:
 
-- :pouting_man:	I´m Sanders. I’m from Lima, Peru  :red_square::white_large_square::red_square: :peru:
-- :desktop_computer:	 I'm currently studying Computer Science at [Universidad de Ingeniería y Tecnología](https://www.utec.edu.pe/)
-- 
+- :pouting_man:	I´m _Sanders_. I’m from Lima, Peru  :red_square::white_large_square::red_square: :peru:  
+- :desktop_computer:	 I'm currently studying Computer Science at [Universidad de Ingeniería y Tecnología](https://www.utec.edu.pe/)  
+- :books: Currently reading:  
+1. [x] El túnel -Ernesto Sabato  
+2. [x] Surely You're Joking, Mr. Feynman! -Richard Feynman  
+3. [ ] Digital Design and Computer Architecture -Harris & Harris  
+4. [ ] C++ Templates:The Complete Guide - Addison & Wesley  
+-  :pencil: Favorite quotes:
+> 
 <!--
 **Zanderz17/Zanderz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
