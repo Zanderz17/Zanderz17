@@ -1,6 +1,6 @@
+### Hello world! 👋  
 ![Imagen inicial](https://media.tenor.com/images/56c271c62439a1234798ccafc576f5b2/tenor.png)
 
-### Hello world! 👋
 ## About me:
 
 - :pouting_man:	I´m Sanders. I’m from Lima, Peru  :red_square::white_large_square::red_square: :peru:
