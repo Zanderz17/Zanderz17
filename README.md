@@ -1,6 +1,11 @@
 ### Hello world!  :raised_hands:	
 ![Imagen inicial](https://media.tenor.com/images/56c271c62439a1234798ccafc576f5b2/tenor.png)
 
+<p align="center">
+  Science and research enthusiast
+</p>  
+
+
 ## About me:
 
 - :pouting_man:	I´m _Sanders_. I’m from Lima, Peru  :red_square::white_large_square::red_square: :peru:  
@@ -22,15 +27,5 @@
 
 <!--
 **Zanderz17/Zanderz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Se irá actualizando conforme aprenda nuevas cosas!
 -->
