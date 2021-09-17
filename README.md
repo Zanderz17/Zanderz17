@@ -20,7 +20,7 @@
 > "I find that the harder I work, the more luck I seem to have." ***-Thomas Jefferson***  
 > "I failed my way to success." ***-Thomas Edison***  
 
-- :e-mail: You can email me at sanderschancan@hotmail.com. I'll try to respond as soon as possible!
+- :e-mail: You can email me at sanderschancan"@"hotmail"."com. I'll try to respond as soon as possible!
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
